@@ -1,2 +1,2 @@
-# python-web-crawler
-This is a Python Web Crawler for scrap the YCombinator Hacker News
+# Python Web Scrawler
+This is a Python Web Crawler to scrape the YCombinator Hacker News.
