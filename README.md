@@ -1,4 +1,4 @@
-# Python Web Scrawler 🕷️
+# Python Web Crawler 🕷️
 This is a Python Web Crawler to scrape the YCombinator Hacker News Site. (https://news.ycombinator.com/).
 This Web Crawler retrieve the order number, news title, news points, and news comments of the first 30 entries in the page.
 Then, the program filter the data with more than five words in the title ordered by the amount of comments first, and filter the data with less than or equal to five words in the title ordered by points.
